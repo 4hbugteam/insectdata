@@ -262,7 +262,7 @@
     {
         "cardType": "couplet",
 		"cardId" : 27,
-		"choiceOneText" : "legs present,
+		"choiceOneText" : "legs present",
 		"choiceOneChild" : "diptera",
 		"chiceOneImage" : "placeholder.png",
 		"choiceTwoText" : "legs absent",
@@ -312,7 +312,7 @@
     {
         "cardType": "couplet",
 		"cardId" : 32,
-		"choiceOneText" : "body flattened dorsoventrally
+		"choiceOneText" : "body flattened dorsoventrally",
 		"choiceOneChild" : 33,
 		"chiceOneImage" : "placeholder.png",
 		"choiceTwoText" : "body flattened laterally",

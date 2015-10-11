@@ -1,151 +1,152 @@
+[
     {
         "cardType": "endpoint",
-		"orderName" : anoplura ,
+		"orderName" : "anoplura ",
 		"details" : "Insect with wings",
-		"image" : "placeholder.png",
+		"image" : "placeholder.png"
     },
     {
         "cardType": "endpoint",
-		"orderName" : coleoptera ,
+		"orderName" : "coleoptera ",
 		"details" : "Insect with wings",
-		"image" : "placeholder.png",
+		"image" : "placeholder.png"
     },
     {
         "cardType": "endpoint",
-		"orderName" : collembola ,
+		"orderName" : "collembola ",
 		"details" : "Insect with wings",
-		"image" : "placeholder.png",
+		"image" : "placeholder.png"
     },
     {
         "cardType": "endpoint",
-		"orderName" : dermaptera ,
+		"orderName" : "dermaptera ",
 		"details" : "Insect with wings",
-		"image" : "placeholder.png",
+		"image" : "placeholder.png"
     },
     {
         "cardType": "endpoint",
-		"orderName" : dictyoptera ,
+		"orderName" : "dictyoptera ",
 		"details" : "Insect with wings",
-		"image" : "placeholder.png",
+		"image" : "placeholder.png"
     },
     {
         "cardType": "endpoint",
-		"orderName" : diptera ,
+		"orderName" : "diptera ",
 		"details" : "Insect with wings",
-		"image" : "placeholder.png",
+		"image" : "placeholder.png"
     },
     {
         "cardType": "endpoint",
-		"orderName" : ephemeroptera ,
+		"orderName" : "ephemeroptera ",
 		"details" : "Insect with wings",
-		"image" : "placeholder.png",
+		"image" : "placeholder.png"
     },
     {
         "cardType": "endpoint",
-		"orderName" : hemiptera ,
+		"orderName" : "hemiptera ",
 		"details" : "Insect with wings",
-		"image" : "placeholder.png",
+		"image" : "placeholder.png"
     },
     {
         "cardType": "endpoint",
-		"orderName" : homoptera,
+		"orderName" : "homoptera",
 		"details" : "Insect with wings",
-		"image" : "placeholder.png",
+		"image" : "placeholder.png"
     },
     {
         "cardType": "endpoint",
-		"orderName" : hymenoptera ,
+		"orderName" : "hymenoptera ",
 		"details" : "Insect with wings",
-		"image" : "placeholder.png",
+		"image" : "placeholder.png"
     },
     {
         "cardType": "endpoint",
-		"orderName" : isoptera,
+		"orderName" : "isoptera",
 		"details" : "Insect with wings",
-		"image" : "placeholder.png",
+		"image" : "placeholder.png"
     },
     {
         "cardType": "endpoint",
-		"orderName" : lepidoptera ,
+		"orderName" : "lepidoptera ",
 		"details" : "Insect with wings",
-		"image" : "placeholder.png",
+		"image" : "placeholder.png"
     },
     {
         "cardType": "endpoint",
-		"orderName" : mallophaga ,
+		"orderName" : "mallophaga ",
 		"details" : "Insect with wings",
-		"image" : "placeholder.png",
+		"image" : "placeholder.png"
     },
     {
         "cardType": "endpoint",
-		"orderName" : mecoptera ,
+		"orderName" : "mecoptera ",
 		"details" : "Insect with wings",
-		"image" : "placeholder.png",
+		"image" : "placeholder.png"
     },
     {
         "cardType": "endpoint",
-		"orderName" : megaloptera ,
+		"orderName" : "megaloptera ",
 		"details" : "Insect with wings",
-		"image" : "placeholder.png",
+		"image" : "placeholder.png"
     },
     {
         "cardType": "endpoint",
-		"orderName" : neuroptera ,
+		"orderName" : "neuroptera ",
 		"details" : "Insect with wings",
-		"image" : "placeholder.png",
+		"image" : "placeholder.png"
     },
     {
         "cardType": "endpoint",
-		"orderName" : odonata ,
+		"orderName" : "odonata ",
 		"details" : "Insect with wings",
-		"image" : "placeholder.png",
+		"image" : "placeholder.png"
     },
     {
         "cardType": "endpoint",
-		"orderName" : orthoptera ,
+		"orderName" : "orthoptera ",
 		"details" : "Insect with wings",
-		"image" : "placeholder.png",
+		"image" : "placeholder.png"
     },
     {
         "cardType": "endpoint",
-		"orderName" : plecoptera ,
+		"orderName" : "plecoptera ",
 		"details" : "Insect with wings",
-		"image" : "placeholder.png",
+		"image" : "placeholder.png"
     },
     {
         "cardType": "endpoint",
-		"orderName" : psocoptera,
+		"orderName" : "psocoptera",
 		"details" : "Insect with wings",
-		"image" : "placeholder.png",
+		"image" : "placeholder.png"
     },
     {
         "cardType": "endpoint",
-		"orderName" : siphonaptera,
+		"orderName" : "siphonaptera",
 		"details" : "Insect with wings",
-		"image" : "placeholder.png",
+		"image" : "placeholder.png"
     },
     {
         "cardType": "endpoint",
-		"orderName" : thysanoptera ,
+		"orderName" : "thysanoptera ",
 		"details" : "Insect with wings",
-		"image" : "placeholder.png",
+		"image" : "placeholder.png"
     },
     {
         "cardType": "endpoint",
-		"orderName" : thysanura ,
+		"orderName" : "thysanura ",
 		"details" : "Insect with wings",
-		"image" : "placeholder.png",
+		"image" : "placeholder.png"
     },
     {
         "cardType": "endpoint",
-		"orderName" : trichoptera,
+		"orderName" : "trichoptera",
 		"details" : "Insect with wings",
-		"image" : "placeholder.png",
+		"image" : "placeholder.png"
     },
     {
         "cardType": "endpoint",
-		"orderName" : ,
+		"orderName" : "",
 		"details" : "Insect with wings",
-		"image" : "placeholder.png",
+		"image" : "placeholder.png"
     }
 ]
